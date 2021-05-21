@@ -1,0 +1,17 @@
+{
+	"id": "2e7037a1-2c79-4ac8-9861-4991c4116b6c",
+	"specversion" : "1.0",
+	"source": "ugc-requests",
+	"type": "ugc-event",
+"kogitoProcessId":"ugcmoderation",
+	"data": {
+		"context": "myapp",
+		"ownerId": "hecsalazar",
+		"ownerType": "admin",
+		"status": "pending",
+		"ugcId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+		"ugcProcessName": "ugc-moderation",
+		"ugcType": "image/jpeg",
+		"sourceUri": "http://somewhere.com/image.jpeg"
+	}
+}
